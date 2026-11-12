@@ -17,9 +17,8 @@
 - **Metodologías y Estándares:** Scrum, Kanban, Modelado UML, Normas de Calidad (ISO/IEC 9126, 25010) y Ciclo de Vida (ISO/IEC 12207).
 
 ### 🚀 Proyectos y Desarrollo
-- **Sistema de Inventario:** Digitalización y levantamiento de requerimientos técnicos para empresa local (El Ballenato), reemplazando registros físicos con interfaces web/móviles.
+- **Sistema de Inventario:** Digitalización y levantamiento de requerimientos técnicos para empresa local, reemplazando registros físicos con interfaces web/móviles.
 - **Task Manager Gamificado:** Desarrollo backend con PostgreSQL y estructuración de misiones/recompensas.
-- **Shaula: Echoes of Rust:** Diseño técnico (GDD) y desarrollo de plataforma 2D en Unity para exhibición académica.
 
 ---
 
@@ -49,5 +48,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[TU_USUARIO_INACAP]&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuroMint0&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </div>
