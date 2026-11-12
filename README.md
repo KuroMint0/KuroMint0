@@ -11,18 +11,18 @@
 
 ---
 
-### 📚 Perfil Académico
+### Perfil Académico
 - **Formación:** Técnico Analista Programador (4to Semestre), INACAP Antofagasta.
 - **Proyección:** Articulación a Ingeniería Informática / Ciberseguridad.
 - **Metodologías y Estándares:** Scrum, Kanban, Modelado UML, Normas de Calidad (ISO/IEC 9126, 25010) y Ciclo de Vida (ISO/IEC 12207).
 
-### 🚀 Proyectos y Desarrollo
+### Proyectos y Desarrollo
 - **Sistema de Inventario:** Digitalización y levantamiento de requerimientos técnicos para empresa local, reemplazando registros físicos con interfaces web/móviles.
 - **Task Manager Gamificado:** Desarrollo backend con PostgreSQL y estructuración de misiones/recompensas.
 
 ---
 
-### 💻 Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
 **> Entorno y Control de Versiones:**
 <br>
