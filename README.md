@@ -18,7 +18,6 @@
 
 ### Proyectos y Desarrollo
 - **Sistema de Inventario:** Digitalización y levantamiento de requerimientos técnicos para empresa local, reemplazando registros físicos con interfaces web/móviles.
-- **Task Manager Gamificado:** Desarrollo backend con PostgreSQL y estructuración de misiones/recompensas.
 
 ---
 
